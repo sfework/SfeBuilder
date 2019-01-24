@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Sfe.Builder": {
+      "commandName": "Project",
+      "commandLineArgs": "p ZLWeb.Debug"
+    }
+  }
+}
